@@ -48,3 +48,13 @@ https://iterm2.com/
 ```sh
 cp com.googlecode.iterm2.plist ~/Library/Preferences/com.googlecode.iterm2.plist
 ```
+
+Install stuff:
+```sh
+git clone https://github.com/eyalz800/vimrc
+git clone https://github.com/eyalz800/zsh
+git clone https://github.com/eyalz800/tmux-conf
+git clone https://github.com/eyalz800/nvimrc
+```
+
+Run ./install.sh in each of the above.
