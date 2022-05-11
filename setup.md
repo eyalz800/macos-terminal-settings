@@ -37,3 +37,8 @@ ngle.plist
 1. Hide menu bar icon.
 2. Clear all shortcuts and add "Left/Right Half" to Command+Options left right "Maximize" "Almost maximize" to up down.
 
+## Install iterm2
+https://iterm2.com/
+```sh
+cp com.googlecode.iterm2.plist ~/Library/Preferences/com.googlecode.iterm2.plist
+```
