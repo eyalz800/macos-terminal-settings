@@ -25,6 +25,10 @@ System Preferences -> Keyboard: Use F1, F2, ... as standard function keys
 System Preferences -> Keyboard: Set Globe to nothing
 System Preferences -> Keyboard: Key repeat to max, Delay Until Repeat to 3 (zero based)
 System Preferences -> Keyboard -> Modifier Keys: Globe to Control, Control to fn
+System Preferences -> Keyboard -> Shortcuts: Disable display shortcut F14, F15, and
+System Preferences -> Keyboard -> Shortcuts: Disable mission control Application Windows, and Show Desktop
+System Preferences -> Keyboard -> Shortcuts: Change mission control to ctrl+command+up
+System Preferences -> Keyboard -> Shortcuts: Change mission control move to left and move to right to ctrl+command+left/right
 
 
 ## Install Prefs Editor
