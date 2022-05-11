@@ -58,3 +58,6 @@ git clone https://github.com/eyalz800/nvimrc
 ```
 
 Run ./install.sh in each of the above.
+```sh
+chsh -s /bin/zsh
+```
