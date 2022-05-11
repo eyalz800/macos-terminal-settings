@@ -1,3 +1,8 @@
+## Install rosetta
+```sh
+sudo softwareupdate --install-rosetta
+```
+
 ## Install karabiner-elements:
 1. https://karabiner-elements.pqrs.org/
 2. Import configuration:
@@ -20,7 +25,7 @@ cp kitty.conf ~/.config/kitty/
 ```
 Install the `MesloLGM Nerd Font Mono.ttf`
 
-## Function keys, control key, and keyboard stuff:
+## Function keys, control key, keyboard and general preferences stuff:
 System Preferences -> Keyboard: Use F1, F2, ... as standard function keys
 System Preferences -> Keyboard: Set Globe to nothing
 System Preferences -> Keyboard: Key repeat to max, Delay Until Repeat to 3 (zero based)
@@ -31,6 +36,7 @@ System Preferences -> Keyboard -> Shortcuts: Change mission control to ctrl+comm
 System Preferences -> Keyboard -> Shortcuts: Change mission control move to left and move to right to ctrl+command+left/right
 System Preferences -> Keyboard -> Input Sources: English is ABC, Hebrew is "Hebrew - PC". Check all checkboxes for both.
 System Preferences -> Trackpad: Uncheck "Swipe between pages" and "App Expose"
+System Preferences -> Battery -> Battery: Turn display off after 15 mins.
 
 ## Install Prefs Editor
 https://apps.tempel.org/PrefsEditor/
