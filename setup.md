@@ -29,7 +29,7 @@ System Preferences -> Keyboard -> Shortcuts: Disable display shortcut F14, F15, 
 System Preferences -> Keyboard -> Shortcuts: Disable mission control Application Windows, and Show Desktop
 System Preferences -> Keyboard -> Shortcuts: Change mission control to ctrl+command+up
 System Preferences -> Keyboard -> Shortcuts: Change mission control move to left and move to right to ctrl+command+left/right
-
+System Preferences -> Trackpad -> Uncheck "Swipe between pages" and "App Expose"
 
 ## Install Prefs Editor
 https://apps.tempel.org/PrefsEditor/
