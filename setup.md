@@ -24,3 +24,16 @@ Install the `MesloLGM Nerd Font Mono.ttf`
 System Preferences -> Keyboard -> Use F1, F2, ... as standard function keys
 System Preferences -> Keyboard -> Modifier Keys: Globe to Control, Control to fn
 System Preferences -> Keyboard: Set Globe to nothing
+
+## Install Prefs Editor
+https://apps.tempel.org/PrefsEditor/
+
+## Install Rectangle
+https://rectangleapp.com/
+```sh
+cp com.knollsoft.Rectangle.plist ~/Library/Preferences/com.knollsoft.Recta
+ngle.plist
+```
+1. Hide menu bar icon.
+2. Clear all shortcuts and add "Left/Right Half" to Command+Options left right "Maximize" "Almost maximize" to up down.
+
