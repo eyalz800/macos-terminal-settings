@@ -39,6 +39,12 @@ Install the `MesloLGM Nerd Font Mono.ttf`
 * System Preferences -> Trackpad: Uncheck "Swipe between pages" and "App Expose"
 * System Preferences -> Battery -> Battery: Turn display off after 15 mins.
 
+## Dock
+```sh
+defaults write com.apple.dock "tilesize" -int "48" && killall Dock 
+defaults write com.apple.dock size-immutable -bool true; killall Dock
+```
+
 ## Install Prefs Editor
 https://apps.tempel.org/PrefsEditor/
 
